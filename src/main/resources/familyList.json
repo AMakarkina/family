@@ -1,0 +1,27 @@
+[
+  {
+    "firstName": "Alina",
+    "secondName": "Makarkina",
+    "dateOfBirthday": "1991-01-24"
+  },
+  {
+    "firstName": "Inna",
+    "secondName": "Slastneva",
+    "dateOfBirthday": "1963-01-26"
+  },
+  {
+    "firstName": "Valeriy",
+    "secondName": "Slastnev",
+    "dateOfBirthday": "1962-03-08"
+  },
+  {
+    "firstName": "Fedor",
+    "secondName": "Makarkin",
+    "dateOfBirthday": "1987-07-02"
+  },
+  {
+    "firstName": "Victoria",
+    "secondName": "Piunova",
+    "dateOfBirthday": "1987-03-31"
+  }
+]
